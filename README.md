@@ -1,16 +1,82 @@
-# app_flutter_portfolio
+# \# 📱 App Flutter Portfolio
 
-A new Flutter project.
+# 
 
-## Getting Started
+# Aplicação desenvolvida em Flutter com o objetivo de compor um portfólio profissional, demonstrando boas práticas de desenvolvimento mobile, organização de código e uso de controle de versão com Git e GitHub.
 
-This project is a starting point for a Flutter application.
+# 
 
-A few resources to get you started if this is your first Flutter project:
+# ---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# \## 🚀 Tecnologias Utilizadas
+
+# \- Flutter
+
+# \- Dart
+
+# \- Git \& GitHub
+
+# \- Android Studio / VS Code
+
+# 
+
+# ---
+
+# 
+
+# \## 🎯 Objetivo do Projeto
+
+# Este projeto tem como finalidade:
+
+# \- Praticar desenvolvimento de aplicações Flutter
+
+# \- Demonstrar conhecimentos em UI/UX
+
+# \- Aplicar versionamento de código com Git
+
+# \- Servir como portfólio para oportunidades profissionais
+
+# 
+
+# ---
+
+# 
+
+# \## 🧩 Funcionalidades (em desenvolvimento)
+
+# \- Estrutura base de aplicação Flutter
+
+# \- Organização por pastas seguindo boas práticas
+
+# \- Interface responsiva
+
+# \- Arquitetura preparada para expansão de novas funcionalidades
+
+# 
+
+# ⚠️ Novas funcionalidades serão adicionadas progressivamente.
+
+# 
+
+# ---
+
+# 
+
+# \## 📂 Estrutura do Projeto
+
+# ```text
+
+# lib/
+
+# &nbsp;├── main.dart
+
+# &nbsp;├── screens/
+
+# &nbsp;├── widgets/
+
+# &nbsp;└── services/
+
+
+
